@@ -1,0 +1,21 @@
+# See: https://dart.dev/tools/pub/pubspec
+name: near_example
+description: >-
+  Demonstrates how to use the NEAR package.
+homepage: https://github.com/artob/flutter_near/tree/master/example
+repository: https://github.com/artob/flutter_near
+issue_tracker: https://github.com/artob/flutter_near/issues
+dependencies:
+  flutter:
+    sdk: flutter
+  near:
+    path: ../
+  cupertino_icons: ^1.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+environment:
+  sdk: '>=2.8.1 <3.0.0'
+flutter:
+  uses-material-design: true
+publish_to: none
