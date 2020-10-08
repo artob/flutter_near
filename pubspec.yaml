@@ -2,7 +2,8 @@
 name: near
 version: 0.0.0
 description: >-
-  NEAR protocol client for Flutter apps.
+  A Flutter library for interacting with the NEAR Protocol,
+  a decentralized application platform.
 homepage: https://github.com/artob/flutter_near
 repository: https://github.com/artob/flutter_near
 issue_tracker: https://github.com/artob/flutter_near/issues

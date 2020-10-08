@@ -5,9 +5,12 @@
 [![Pub package](https://img.shields.io/pub/v/near.svg)](https://pub.dev/packages/near)
 [![Discord](https://img.shields.io/badge/discord-%23sponsor--near--protocol-brightgreen.svg)](https://discord.gg/68cgtxd)
 
+This is an in-the-works [Flutter] library for interacting with the
+[NEAR Protocol], a decentralized application platform.
+
 ## Prerequisites
 
-- [Dart](https://dart.dev) 2.8+ and [Flutter](https://flutter.dev) 1.17+
+- [Dart] 2.8+ and [Flutter] 1.17+
 
 ## Compatibility
 
@@ -29,3 +32,7 @@ dependencies:
 ```dart
 import 'package:near/near.dart';
 ```
+
+[Dart]:          https://dart.dev
+[Flutter]:       https://flutter.dev
+[NEAR Protocol]: http://near.org
